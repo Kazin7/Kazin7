@@ -1,11 +1,13 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krustm8)](https://solved.ac/krustm8)
 
-
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-R-orange"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-C-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-C#-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-C++-red"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Linux-blue"/>&nbsp
   <br>
