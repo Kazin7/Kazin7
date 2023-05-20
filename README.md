@@ -4,13 +4,18 @@
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-C-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-C#-red"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Linux-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML/CSS-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
 
   <br>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-MongoDB-navy"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
