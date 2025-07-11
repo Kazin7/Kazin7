@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-R-orange"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-C-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-C++-red"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Linux-blue"/>&nbsp
