@@ -22,7 +22,7 @@
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://kazin7.github.io/"><img src="https://img.shields.io/badge/Github.Resume-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kazin7.github.io/"/></a>&nbsp
+ 
   <a href="mailto:krustm8@naver.com"><img src="https://img.shields.io/badge/NaverMail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krustm8@naver.com"/></a>
   
 </p>
